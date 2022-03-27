@@ -1,4 +1,8 @@
-### Hi there 👋
+TypeScript + React + Unix
+
+Front-end lead developer
+
+Currently building a team for a scale-up
 
 <!--
 **michaelhobbs/michaelhobbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
